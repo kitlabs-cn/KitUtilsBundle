@@ -1,0 +1,2 @@
+# KitUtilsBundle
+Useful functions bundle
